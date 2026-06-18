@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  ＜img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momoti-0715&count_private=true&theme=react" />
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=momoti-0715)
 
 ## Connect with me
 - [Twitter](https://x.com/mfiseh8010)
