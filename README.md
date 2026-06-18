@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=momoti-0715&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=momoti-0715&show_icons=true&count_private=true&locale=en&layout=compact)
 
 ## Connect with me
 - [Twitter](https://x.com/mfiseh8010)
