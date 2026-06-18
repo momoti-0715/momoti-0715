@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=momoti-0715&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=momoti-0715&count_private=true&theme=dracula&layout=compact)
 
 ## Connect with me
 - [Twitter](https://x.com/mfiseh8010)
