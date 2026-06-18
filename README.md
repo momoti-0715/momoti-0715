@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://vercel.app)](https://github.com/momoti-0715)
+[![Top Langs](https://vercel.app)](https://github.com/)
 
 ## Connect with me
 - [Twitter](https://x.com/mfiseh8010)
