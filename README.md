@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Top Langs](https://vercel.app)](https://github.com/)
-
 ## Connect with me
 - [Twitter](https://x.com/mfiseh8010)
 
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=momoti-0715&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momoti-0715" />
