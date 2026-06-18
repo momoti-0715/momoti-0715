@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=momoti-0715&show_icons=true&locale=en&layout=compact)
+
+## Connect with me
+- [Twitter](https://x.com/mfiseh8010)
+
 <!--
 **momoti-0715/momoti-0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
