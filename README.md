@@ -1,11 +1,10 @@
 ## Hi there 👋
 
+![github stats](https://github-readme-stats-silk-eight-15.vercel.app/api?username=momoti-0715&count_private=true&include_all_commits=true&theme=tokyonight)
+![top langs](https://github-readme-stats-silk-eight-15.vercel.app/api/top-langs?username=momoti-0715&layout=compact&langs_count=10&count_private=true&include_all_commits=true&theme=tokyonight)
+
 ## Connect with me
 - [Twitter](https://x.com/mfiseh8010)
-
-![github stats](https://github-readme-stats-git-master-momoti-0715s-projects.vercel.app/api/?username=momoti-0715)
-![top langs](https://github-readme-stats-git-master-momoti-0715s-projects.vercel.app/api/top-langs/?username=momoti-0715)
-
 <!--
 **momoti-0715/momoti-0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
