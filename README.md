@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![github stats](https://github-readme-stats-silk-eight-15.vercel.app/api?username=momoti-0715&count_private=true&include_all_commits=true&theme=tokyonight)
-![top langs](https://github-readme-stats-silk-eight-15.vercel.app/api/top-langs?username=momoti-0715&layout=compact&langs_count=10&count_private=true&include_all_commits=true&theme=tokyonight)
+![top langs](https://github-readme-stats-silk-eight-15.vercel.app/api/top-langs?username=momoti-0715&layout=compact&langs_count=20&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ## Connect with me
 - [Twitter](https://x.com/mfiseh8010)
